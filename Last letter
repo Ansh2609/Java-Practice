@@ -1,0 +1,12 @@
+class Main
+{
+    public static void main(String[] args) {
+        
+    
+    String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    char age = alphabet.charAt(alphabet.length() - 1);
+    System.out.println(age);
+    }
+
+    
+    }
