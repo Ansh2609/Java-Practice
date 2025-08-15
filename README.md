@@ -1,2 +1,2 @@
 # Java-Practice
-Practiting some problems in Java 
+A list of Java problems solved during CPS209
